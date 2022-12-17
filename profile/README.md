@@ -1,6 +1,8 @@
-# .github
+# Devsquadron
+
+Enterprise grade project management, right in your terminal
+  
 ### Project management...
-- that stays up to date
-- for developers
-- that sucks less
+- for power users & users
+- that "hooks" into reality
 - with magic automation
