@@ -1,6 +1,6 @@
 # Devsquadron
 
-We enable highly technical leaders to manage their own projects.
+### We enable highly technical leaders to manage their own projects.
 
 We do this by:
 1. Bringing project management into the terminal and eliminating context switching
