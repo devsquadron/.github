@@ -1,12 +1,13 @@
-[developersquadron.com](https://developersquadron.com/)
-
 # Devsquadron
 
-Enterprise grade project management, right in your terminal
+We enable highly technical leaders to manage their own projects.
 
-### Project management...
-- for power users & users
-- with powerful task querying and manipulation
-- that "hooks" into reality
-- with magic automation
+We do this by:
+1. Bringing project management into the terminal and eliminating context switching
+2. Allowing technical leaders to better offload work, in their editor of choice, as they write code
+3. keeping the taskboard true through tireless automation
+4. Helping small technical teams stay minimalist and agile
 
+![help gif](https://developersquadron.com/gifs/help.gif)
+
+see the full docs at [developersquadron.com](https://developersquadron.com/)
